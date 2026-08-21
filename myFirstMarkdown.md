@@ -18,7 +18,7 @@ Favorite game or hobby: Playing Games like Elden ring
 
 # My Summer
 
-<p style="color: ;">The best thing I did this summer was [i made states for track in the 400m].
+<p style="color:green ;">The best thing I did this summer was [i made states for track in the 400m].
 
 # If I Had a Free Day... 
 
@@ -31,4 +31,5 @@ Favorite game or hobby: Playing Games like Elden ring
 # One Goal
 
 <p style="color: gold;">One goal I have for this school year is [hit sub 50 in the 400, sub 23 in the 200 and sub 11.30 in the 100].</p>
+
 <p style="color: red;">My name is [Fetty] and I'm a student in this class..</p>
